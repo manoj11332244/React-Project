@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* .navbar{
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar>ul{
+    display: flex;
+    padding-right: 2vw;
+}
+
+.navbar>ul>li{
+    padding: 10px;
+    list-style: none;
+    text-transform: uppercase;
+    gap: 8px;
+}
+
+.navbar>ul>button{
+    margin-left: 20px;
+}
+
+.Productcard{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+}
+
+.item{
+    height: 400px;
+    width: 340px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px
+    /* line-height: 3px; */
+/*     
+}
+
+.item>button{
+    background-color: green;
+    color: #fff;
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.item img{
+    padding-top: 10px;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+
+/* Skeleton */
+/* 
+.skeleton-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skeleton{
+    height: 400px;
+    width: 340px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f0f0f0f0;
+} */ 
